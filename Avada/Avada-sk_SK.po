@@ -17,56 +17,56 @@ msgstr ""
 
 #: 404.php:20
 msgid "Oops, This Page Could Not Be Found!"
-msgstr ""
+msgstr "Chyba, tato stránka neexistuje!"
 
 #: 404.php:30
 msgid "Helpful Links"
-msgstr ""
+msgstr "Užitočné linky"
 
 #: 404.php:98
 msgid "Search Our Website"
-msgstr ""
+msgstr "Hľadajte na našich webových stránkach"
 
 #: 404.php:99
 msgid "Can't find what you need? Take a moment and do a search below!"
-msgstr ""
+msgstr "Nemôžete nájsť čo hľadáte? Skuste to nižšie!"
 
 #: bbpress/form-search.php:13 includes/class-avada-layout-bbpress.php:140
 #: searchform.php:17
 msgid "Search for:"
-msgstr ""
+msgstr "Hľadať:"
 
 #: bbpress/form-search.php:16 includes/class-avada-layout-bbpress.php:143
 msgid "Search the Forum..."
-msgstr ""
+msgstr "Hľadať..."
 
 #: bbpress/loop-search-reply.php:38
 msgid "In reply to: "
-msgstr ""
+msgstr "- Odpovedať: "
 
 #: bbpress/loop-search-topic.php:44
 msgid "Topic: "
-msgstr ""
+msgstr "Téma: "
 
 #: bbpress/loop-search-topic.php:49
 msgid "in group forum "
-msgstr ""
+msgstr "V skupinovom fóre "
 
 #: bbpress/loop-search-topic.php:53
 msgid "in forum "
-msgstr ""
+msgstr "Rola vo fóre:"
 
 #: bbpress/loop-single-reply.php:44
 msgid "in reply to: "
-msgstr ""
+msgstr "- Odpovedať: "
 
 #: comments.php:32
 msgid "No Comments"
-msgstr ""
+msgstr "Žiadne komentáre"
 
 #: comments.php:32
 msgid "One Comment"
-msgstr ""
+msgstr "Jeden komentár"
 
 #: comments.php:32
 msgid "% Comment"
@@ -77,30 +77,30 @@ msgstr[2] ""
 
 #: comments.php:51
 msgid "Comments are closed."
-msgstr ""
+msgstr "Komentáre nie sú povolené."
 
 #: comments.php:65 contact.php:69 includes/class-avada-contact.php:169
 msgid "Name (required)"
-msgstr ""
+msgstr "Meno (povinné)"
 
 #: comments.php:65
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/welcome/views/status_report.php:710
 #: templates/wc-catalog-ordering.php:61 templates/wc-catalog-ordering.php:97
 msgid "Name"
-msgstr ""
+msgstr "Meno"
 
 #: comments.php:66 contact.php:70 includes/class-avada-contact.php:196
 msgid "Email (required)"
-msgstr ""
+msgstr "E-mailová adresa (povinné)"
 
 #: comments.php:66 includes/options/social_media.php:571
 #: includes/options/social_media.php:573
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: comments.php:67
 msgid "Website"
-msgstr ""
+msgstr "Webová stránka"
 
 #: comments.php:67 includes/class-avada-nav-walker-megamenu.php:169
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:153
@@ -111,19 +111,19 @@ msgstr ""
 #: comments.php:68
 msgid ""
 "Save my name, email, and website in this browser for the next time I comment."
-msgstr ""
+msgstr "Uložiť meno, e-mail a weobvú stránku v prehliadači pre budúce komentáre."
 
 #: comments.php:72
 msgid "Comment"
-msgstr ""
+msgstr "Komentár"
 
 #: comments.php:72
 msgid "Comment..."
-msgstr ""
+msgstr "Komentár..."
 
 #: comments.php:73 comments.php:74
 msgid "Leave A Comment"
-msgstr ""
+msgstr "Napísať komentár"
 
 #. translators: Opening and closing link tags.
 #: comments.php:78
@@ -138,11 +138,11 @@ msgstr ""
 
 #: comments.php:80
 msgid "Log out of this account"
-msgstr ""
+msgstr "Odhlásiť sa z účtu"
 
 #: comments.php:84
 msgid "Post Comment"
-msgstr ""
+msgstr "Odoslať komentár"
 
 #: contact.php:33 contact.php:35
 msgid ""
@@ -158,22 +158,22 @@ msgstr ""
 
 #: contact.php:64 contact.php:76 includes/class-avada-contact.php:217
 msgid "Message"
-msgstr ""
+msgstr "Správa"
 
 #: contact.php:71
 msgid "Subject"
-msgstr ""
+msgstr "Predmet"
 
 #: contact.php:113
 msgid "Submit Form"
-msgstr ""
+msgstr "Odoslať formulár"
 
 #: functions.php:218 functions.php:219 includes/admin-screens/demos.php:129
 #: includes/class-avada-admin.php:360 includes/class-avada-admin.php:637
 #: includes/class-avada-admin.php:640
 #: includes/class-avada-megamenu-framework.php:184
 msgid "Theme Options"
-msgstr ""
+msgstr "Nastavenia šablóny"
 
 #. translators: Link to WordPress requirements page.
 #: functions.php:378
@@ -185,7 +185,7 @@ msgstr ""
 
 #: functions.php:384
 msgid "Sucessfully imported demo data!"
-msgstr ""
+msgstr "Domo dáta boli úspešne naimporotované!"
 
 #: functions.php:582 functions.php:583
 msgid "Fusion Patcher"
@@ -195,7 +195,7 @@ msgstr ""
 msgid ""
 "Our site is currently undergoing scheduled maintenance. Please try again in "
 "a moment."
-msgstr ""
+msgstr "Naša stránka je momentálne v naplánovanej údržbe. Prosím skúste to znova zachvíľu."
 
 #: functions.php:603
 msgid ""
@@ -216,7 +216,7 @@ msgstr ""
 
 #: header.php:56
 msgid "Skip to content"
-msgstr ""
+msgstr "Prejsť na obsah"
 
 #. translators: %1$s: "System Status" link. %2$s: "View more info here" link.
 #: includes/admin-screens/demos.php:35
@@ -242,7 +242,7 @@ msgstr ""
 
 #: includes/admin-screens/demos.php:41
 msgid "IMPORTANT:"
-msgstr ""
+msgstr "DÔLEŽITÉ:"
 
 #: includes/admin-screens/demos.php:42 includes/admin-screens/plugins.php:83
 #: includes/class-avada-admin.php:359 includes/class-avada-admin.php:636
@@ -253,7 +253,7 @@ msgstr ""
 
 #: includes/admin-screens/demos.php:43
 msgid "View more info here"
-msgstr ""
+msgstr "Viac informácií nájdete tu"
 
 #: includes/admin-screens/demos.php:54
 msgid "All Demos"
@@ -261,11 +261,11 @@ msgstr ""
 
 #: includes/admin-screens/demos.php:78
 msgid "Posts"
-msgstr ""
+msgstr "Príspevky"
 
 #: includes/admin-screens/demos.php:84 includes/options/sidebars.php:139
 msgid "Pages"
-msgstr ""
+msgstr "Stránky"
 
 #: includes/admin-screens/demos.php:90
 msgid "Portfolios"
@@ -273,7 +273,7 @@ msgstr ""
 
 #: includes/admin-screens/demos.php:96
 msgid "FAQs"
-msgstr ""
+msgstr "Často kladené otázky"
 
 #: includes/admin-screens/demos.php:102
 msgid "Products"
@@ -293,7 +293,7 @@ msgstr ""
 
 #: includes/admin-screens/demos.php:125 includes/metaboxes/metaboxes.php:285
 msgid "Sliders"
-msgstr ""
+msgstr "Slidery"
 
 #: includes/admin-screens/demos.php:133
 msgid "Widgets"
@@ -304,7 +304,7 @@ msgstr ""
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/border/field_border.php:125
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/spacing/field_spacing.php:191
 msgid "All"
-msgstr ""
+msgstr "Všetko"
 
 #: includes/admin-screens/demos.php:215 includes/admin-screens/demos.php:347
 #: includes/class-avada-admin.php:1426
@@ -345,7 +345,7 @@ msgstr ""
 #: includes/admin-screens/demos.php:275 includes/class-avada-admin.php:1103
 #: includes/class-avada-tgm-plugin-activation.php:2852
 msgid "Install"
-msgstr ""
+msgstr "Nainštalovať"
 
 #: includes/admin-screens/demos.php:278 includes/class-avada-admin.php:1452
 #: includes/class-avada-tgm-plugin-activation.php:2456
@@ -356,7 +356,7 @@ msgstr ""
 #: includes/admin-screens/demos.php:281 includes/class-avada-admin.php:1122
 #: includes/class-avada-tgm-plugin-activation.php:2861
 msgid "Activate"
-msgstr ""
+msgstr "Aktivovať"
 
 #: includes/admin-screens/demos.php:323
 msgid "Import Content"
@@ -734,7 +734,7 @@ msgstr ""
 #: includes/admin-screens/plugins.php:180
 #: includes/class-avada-tgm-plugin-activation.php:2408
 msgid "Required"
-msgstr ""
+msgstr "Vyžadované"
 
 #: includes/admin-screens/plugins.php:185
 msgid "Premium"
@@ -934,7 +934,7 @@ msgstr ""
 #: includes/class-avada-admin.php:768
 #: includes/lib/inc/class-fusion-patcher-admin-screen.php:301
 msgid "Learn More"
-msgstr ""
+msgstr "Viac informácií"
 
 #. translators: Version Number.
 #: includes/admin-screens/system-status.php:150
@@ -1407,45 +1407,45 @@ msgstr ""
 
 #: includes/avada-functions.php:319 includes/options/blog.php:488
 msgid "Related Posts"
-msgstr ""
+msgstr "Podobné príspevky"
 
 #: includes/avada-functions.php:322 includes/options/portfolio.php:389
 msgid "Related Projects"
-msgstr ""
+msgstr "Podobné produkty"
 
 #: includes/avada-functions.php:325
 msgid "Related Faqs"
-msgstr ""
+msgstr "Podobné otázky"
 
 #: includes/avada-functions.php:414
 msgid "My Account"
-msgstr ""
+msgstr "Môj účet"
 
 #: includes/avada-functions.php:432
 msgid "Login failed, please try again."
-msgstr ""
+msgstr "Neúspešné prihlásenie, prosím, skúste to znova."
 
 #: includes/avada-functions.php:435
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/password/field_password.php:63
 msgid "Username"
-msgstr ""
+msgstr "Použivateľké meno"
 
 #: includes/avada-functions.php:436
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/password/field_password.php:62
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 #: includes/avada-functions.php:437
 msgid "Remember Me"
-msgstr ""
+msgstr "Zapamätať si ma"
 
 #: includes/avada-functions.php:440
 msgid "Log In"
-msgstr ""
+msgstr "Prihálisť sa"
 
 #: includes/avada-functions.php:444
 msgid "Register"
-msgstr ""
+msgstr "Zaregistrovať"
 
 #. translators: Number of items.
 #: includes/avada-functions.php:513
@@ -1454,26 +1454,26 @@ msgstr ""
 
 #: includes/avada-functions.php:515
 msgid "Cart"
-msgstr ""
+msgstr "Košík"
 
 #: includes/avada-functions.php:522 includes/avada-functions.php:562
 #: includes/avada-functions.php:567 includes/lib/inc/templates/rollover.php:210
 #: templates/wc-top-user-container.php:47
 msgid "View Cart"
-msgstr ""
+msgstr "Zobraziť košík"
 
 #: includes/avada-functions.php:563
 msgid "Checkout"
-msgstr ""
+msgstr "Objednať"
 
 #: includes/avada-functions.php:650 templates/header-v6.php:44
 #: templates/menu-mobile-flyout.php:38 templates/menu-mobile-modern.php:31
 msgid "Toggle Sliding Bar"
-msgstr ""
+msgstr "Prepnúť ďalej"
 
 #: includes/avada-functions.php:685 includes/options/header.php:190
 msgid "Search"
-msgstr ""
+msgstr "Hľadať"
 
 #: includes/avada-functions.php:889 includes/avada-functions.php:910
 msgid "This Slider Is Assigned Via Fusion Page Options"
@@ -1512,7 +1512,7 @@ msgstr ""
 
 #: includes/avada-functions.php:1314 includes/options/menu.php:50
 msgid "Main Menu"
-msgstr ""
+msgstr "Hlavné menu"
 
 #: includes/avada-functions.php:1329
 msgid "Main Menu Sticky"
@@ -2173,20 +2173,20 @@ msgstr ""
 #: includes/plugins/multiple_sidebars.php:452
 #: includes/plugins/multiple_sidebars.php:528
 msgid "Default"
-msgstr ""
+msgstr "Predvolený"
 
 #: includes/class-avada-admin.php:1586
 #: includes/metaboxes/tabs/tab_sliders.php:138 includes/options/contact.php:67
 #: includes/options/events_calendar.php:58 includes/options/header.php:89
 msgid "Below"
-msgstr ""
+msgstr "Pod"
 
 #: includes/class-avada-admin.php:1587
 #: includes/metaboxes/tabs/tab_sliders.php:139 includes/options/blog.php:451
 #: includes/options/contact.php:66 includes/options/events_calendar.php:57
 #: includes/options/header.php:90
 msgid "Above"
-msgstr ""
+msgstr "Nad"
 
 #: includes/class-avada-admin.php:1590
 #: includes/metaboxes/tabs/tab_sliders.php:135 includes/options/header.php:83
@@ -2376,7 +2376,7 @@ msgstr ""
 
 #: includes/class-avada-breadcrumbs.php:118
 msgid "Home"
-msgstr ""
+msgstr "Úvodná stránka"
 
 #: includes/class-avada-breadcrumbs.php:119
 msgid "Tag:"
@@ -2384,28 +2384,29 @@ msgstr ""
 
 #: includes/class-avada-breadcrumbs.php:120
 msgid "Search:"
-msgstr ""
+msgstr "Hľadať"
 
 #: includes/class-avada-breadcrumbs.php:121
 msgid "404 - Page not Found"
-msgstr ""
+msgstr "404 - Stránka nebola najdená"
 
 #: includes/class-avada-contact.php:154
 msgid ""
 "Please check if you've filled all the fields with valid information. Thank "
 "you."
-msgstr ""
+msgstr "Skontrolujte prosím, či ste vyplnili všetky polia správnymi údajmi. Ďakujeme."
 
 #: includes/class-avada-contact.php:156
 msgid ""
 "Please check if you've filled all the fields with valid information and that "
 "the data privacy terms confirmation box is checked. Thank you."
-msgstr ""
+msgstr "Skontrolujte prosím, či ste vyplnili všetky polia správnymi údajmi a či "
+"ste odškrtli políčko o súhlase s podmienkami ochrany osobných údajov. Ďakujeme."
 
 #: includes/class-avada-contact.php:280
 msgid ""
 "Sorry, ReCaptcha could not verify that you are a human. Please try again."
-msgstr ""
+msgstr "Prepáčte, ale ReCaptcha nemohla overiť, či nie ste robot. Prosím, skúste to ešte raz."
 
 #: includes/class-avada-contact.php:282
 msgid ""
@@ -2486,15 +2487,15 @@ msgstr ""
 #. translators: Number.
 #: includes/class-avada-layout-bbpress.php:103
 msgid "Post count: %s"
-msgstr ""
+msgstr "Počet príspevkov: %s"
 
 #: includes/class-avada-layout-bbpress.php:136 search.php:30
 msgid "Need a new search?"
-msgstr ""
+msgstr "Nové hľadanie?"
 
 #: includes/class-avada-layout-bbpress.php:137 search.php:32
 msgid "If you didn't find what you were looking for, try a new search!"
-msgstr ""
+msgstr "Ak ste nenašli čo ste hľadali, skúste nové hľadanie!"
 
 #: includes/class-avada-layout-bbpress.php:222
 #: includes/class-avada-layout-bbpress.php:247
@@ -2502,7 +2503,7 @@ msgstr ""
 #: includes/class-avada-woocommerce.php:396 includes/lib/inc/functions.php:920
 #: single-wpfc_sermon.php:22 single.php:21
 msgid "Previous"
-msgstr ""
+msgstr "Predchádzajúce"
 
 #: includes/class-avada-layout-bbpress.php:223
 #: includes/class-avada-layout-bbpress.php:248
@@ -2510,7 +2511,7 @@ msgstr ""
 #: includes/class-avada-woocommerce.php:397 includes/lib/inc/functions.php:966
 #: single-wpfc_sermon.php:23 single.php:22
 msgid "Next"
-msgstr ""
+msgstr "Ďalšie"
 
 #: includes/class-avada-megamenu-framework.php:117
 #: includes/class-avada-megamenu-framework.php:122
@@ -2527,7 +2528,7 @@ msgstr ""
 #: includes/class-avada-nav-walker-megamenu.php:252
 #: includes/class-avada-widget-style.php:252
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušiť"
 
 #: includes/class-avada-megamenu-framework.php:134
 msgid "Menu First Level Style"
@@ -2903,7 +2904,7 @@ msgstr ""
 #: woocommerce/compatibility/3.2/single-product/tabs/description.php:16
 #: woocommerce/single-product/tabs/description.php:16
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 #: includes/class-avada-nav-walker-megamenu.php:208
 msgid ""
@@ -3021,7 +3022,7 @@ msgstr ""
 
 #: includes/class-avada-privacy-embeds.php:901
 msgid "I Accept"
-msgstr ""
+msgstr "Súhlasím"
 
 #: includes/class-avada-pwa.php:184
 msgid "Fonts"
@@ -3037,11 +3038,11 @@ msgstr ""
 
 #: includes/class-avada-scripts.php:587
 msgid "Go to..."
-msgstr ""
+msgstr "Prejsť do..."
 
 #: includes/class-avada-scripts.php:588
 msgid "Shopping Cart"
-msgstr ""
+msgstr "Nákupný košík"
 
 #: includes/class-avada-scripts.php:589
 msgid "Open Sub Menu"
@@ -3053,15 +3054,15 @@ msgstr ""
 
 #: includes/class-avada-scripts.php:607
 msgid "Go to Top"
-msgstr ""
+msgstr "Ísť na začiatok"
 
 #: includes/class-avada-scripts.php:688 templates/wc-show-details-button.php:17
 msgid "Details"
-msgstr ""
+msgstr "Detaily"
 
 #: includes/class-avada-scripts.php:691
 msgid "Not all fields have been filled in correctly."
-msgstr ""
+msgstr "Nie všetky polia boli vyplnená správne."
 
 #. translators: the Date.
 #: includes/class-avada-sermon-manager.php:54
@@ -3129,23 +3130,23 @@ msgstr ""
 #. translators: %1$s: Comment date. %2$s: Comment time.
 #: includes/class-avada-template.php:471
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s at %2$s"
 
 #: includes/class-avada-template.php:471
 msgid " - Edit"
-msgstr ""
+msgstr " - Upraviť"
 
 #: includes/class-avada-template.php:477
 msgid " - Reply"
-msgstr ""
+msgstr " - Odpovedať"
 
 #: includes/class-avada-template.php:488
 msgid "Your comment is awaiting moderation."
-msgstr ""
+msgstr "Váš komentár čaká na schválenie."
 
 #: includes/class-avada-tgm-plugin-activation.php:339
 msgid "Install Required Plugins"
-msgstr ""
+msgstr "Nainštalujete požadované pulginy"
 
 #. translators: %s: plugin name.
 #: includes/class-avada-tgm-plugin-activation.php:344
@@ -3520,7 +3521,7 @@ msgstr ""
 #: includes/widget/class-fusion-widget-author.php:268
 #: includes/widget/class-fusion-widget-social-links.php:554
 msgid "None"
-msgstr ""
+msgstr "Žiadny"
 
 #: includes/class-avada-widget-style.php:97 includes/options/advanced.php:219
 #: includes/options/footer.php:452
@@ -3581,7 +3582,7 @@ msgstr ""
 #: includes/widget/class-fusion-widget-social-links.php:553
 #: includes/widget/class-fusion-widget-vertical-menu.php:333
 msgid "Left"
-msgstr ""
+msgstr "Vľavo"
 
 #: includes/class-avada-widget-style.php:118
 #: includes/class-avada-widget-style.php:131
@@ -3606,7 +3607,7 @@ msgstr ""
 #: includes/widget/class-fusion-widget-social-links.php:551
 #: includes/widget/class-fusion-widget-vertical-menu.php:334
 msgid "Right"
-msgstr ""
+msgstr "Vpravo"
 
 #: includes/class-avada-widget-style.php:119
 #: includes/class-avada-widget-style.php:132
@@ -3618,7 +3619,7 @@ msgstr ""
 #: includes/options/portfolio.php:221 includes/options/sliding_bar.php:215
 #: includes/widget/class-fusion-widget-menu.php:183
 msgid "Center"
-msgstr ""
+msgstr "Na stred"
 
 #: includes/class-avada-widget-style.php:124
 msgid "Mobile Content Align"
@@ -3654,7 +3655,7 @@ msgstr[2] ""
 #: includes/class-avada-woocommerce.php:1312
 #: includes/class-avada-woocommerce.php:1330
 msgid "Continue"
-msgstr ""
+msgstr "Pokračovať"
 
 #. translators: WC Customizer notice.
 #: includes/class-avada-woocommerce.php:1374
@@ -3965,35 +3966,35 @@ msgstr ""
 #. translators: The search query.
 #: includes/custom_functions.php:182
 msgid "Search results for: %s"
-msgstr ""
+msgstr "Výsledky vyhľadávania pre: %s"
 
 #: includes/custom_functions.php:195
 msgid "Error 404 Page"
-msgstr ""
+msgstr "Chyba 404 - Stránka nebyla nájdená"
 
 #. translators: Date.
 #: includes/custom_functions.php:203
 msgid "Daily Archives: %s"
-msgstr ""
+msgstr "Archív podľa dňa: %s"
 
 #. translators: Date.
 #: includes/custom_functions.php:206
 msgid "Monthly Archives: %s"
-msgstr ""
+msgstr "Archív podľa mesiaca: %s"
 
 #. translators: Date.
 #: includes/custom_functions.php:209
 msgid "Yearly Archives: %s"
-msgstr ""
+msgstr "Archív podľa roku: %s"
 
 #: includes/custom_functions.php:472 includes/custom_functions.php:475
 #: includes/widget/class-fusion-widget-vertical-menu.php:134
 msgid "Back to Parent Page"
-msgstr ""
+msgstr "Späť na domovskú stránku"
 
 #: includes/dynamic_css.php:5401
 msgid "Please enter correct details for this required field."
-msgstr ""
+msgstr "Zadajte prosím správny údaj pre toto pole"
 
 #: includes/lib/inc/class-fusion-data.php:147 includes/options/contact.php:52
 #: includes/widget/class-fusion-widget-social-links.php:302
@@ -4231,7 +4232,7 @@ msgstr ""
 #: woocommerce/compatibility/3.2/checkout/form-pay.php:31
 #: woocommerce/compatibility/3.2/checkout/review-order.php:17
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
 #: includes/lib/inc/class-fusion-patcher-admin-screen.php:326
 msgid "Issue Date"
@@ -4365,7 +4366,7 @@ msgstr ""
 
 #: includes/lib/inc/class-fusion-product-registration.php:394
 msgid "Submit"
-msgstr ""
+msgstr "Odoslať"
 
 #: includes/lib/inc/class-fusion-product-registration.php:400
 msgid ""
@@ -4442,11 +4443,11 @@ msgstr ""
 
 #: includes/lib/inc/class-fusion-scripts.php:670
 msgid "Loading the next set of posts..."
-msgstr ""
+msgstr "Načítať ďalšie sady príspevkov..."
 
 #: includes/lib/inc/class-fusion-scripts.php:671
 msgid "All items displayed."
-msgstr ""
+msgstr "Všetky položky sú zobrazené."
 
 #: includes/lib/inc/class-fusion-settings.php:389
 msgid "Link & Zoom"
@@ -4462,13 +4463,13 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_portfolio_post.php:145
 #: includes/metaboxes/tabs/tab_post.php:71
 msgid "Zoom"
-msgstr ""
+msgstr "Priblížiť"
 
 #: includes/lib/inc/class-fusion-settings.php:398
 #: includes/metaboxes/tabs/tab_portfolio_post.php:146
 #: includes/metaboxes/tabs/tab_post.php:72
 msgid "No Icons"
-msgstr ""
+msgstr "Žiadne ikony"
 
 #. translators: The value.
 #. translators: The default value.
@@ -4496,7 +4497,7 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_post.php:149
 #: includes/metaboxes/tabs/tab_post.php:161
 msgid "Show"
-msgstr ""
+msgstr "Zobraziž"
 
 #: includes/lib/inc/class-fusion-settings.php:438
 #: includes/metaboxes/tabs/tab_page.php:71
@@ -4514,7 +4515,7 @@ msgstr ""
 #: includes/options/blog.php:67 includes/options/contact.php:185
 #: includes/options/page_title_bar.php:49 includes/options/search_page.php:98
 msgid "Hide"
-msgstr ""
+msgstr "Skryť"
 
 #: includes/lib/inc/class-fusion-settings.php:445
 #: includes/lib/inc/class-fusion-settings.php:453
@@ -4551,7 +4552,7 @@ msgstr ""
 #: includes/widget/class-fusion-widget-social-links.php:562
 #: includes/widget/class-fusion-widget-social-links.php:570
 msgid "Yes"
-msgstr ""
+msgstr "Áno"
 
 #: includes/lib/inc/class-fusion-settings.php:445
 #: includes/lib/inc/class-fusion-settings.php:453
@@ -4590,7 +4591,7 @@ msgstr ""
 #: includes/widget/class-fusion-widget-social-links.php:561
 #: includes/widget/class-fusion-widget-social-links.php:569
 msgid "No"
-msgstr ""
+msgstr "Nie"
 
 #. translators: The value.
 #: includes/lib/inc/class-fusion-settings.php:448
@@ -4599,7 +4600,7 @@ msgstr ""
 
 #: includes/lib/inc/class-fusion-settings.php:465
 msgid "none"
-msgstr ""
+msgstr "Žiadny"
 
 #. translators: The value.
 #: includes/lib/inc/class-fusion-settings.php:476
@@ -4647,28 +4648,28 @@ msgstr ""
 #. translators: The categories list.
 #: includes/lib/inc/functions.php:212
 msgid "Categories: %s"
-msgstr ""
+msgstr "Kategórie: %s"
 
 #. translators: The tags list.
 #: includes/lib/inc/functions.php:225
 msgid "Tags: %s"
-msgstr ""
+msgstr "Tagy: %s"
 
 #: includes/lib/inc/functions.php:232 templates/related-posts.php:105
 msgid "0 Comments"
-msgstr ""
+msgstr "0 Komentárov"
 
 #: includes/lib/inc/functions.php:232 templates/related-posts.php:105
 msgid "1 Comment"
-msgstr ""
+msgstr "1 Komentár"
 
 #: includes/lib/inc/functions.php:232 templates/related-posts.php:105
 msgid "% Comments"
-msgstr ""
+msgstr "% Komentárov"
 
 #: includes/lib/inc/functions.php:689
 msgid "Pages:"
-msgstr ""
+msgstr "Stránky"
 
 #: includes/lib/inc/importer/class-fusion-wxr-importer.php:85
 #: includes/lib/inc/importer/class-wxr-importer.php:666
@@ -5560,7 +5561,7 @@ msgstr ""
 #: includes/metaboxes/options/options_es.php:17
 #: includes/options/lightbox.php:217
 msgid "Title"
-msgstr ""
+msgstr "Názov"
 
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:223
 msgid "Add %s"
@@ -6559,11 +6560,11 @@ msgstr ""
 
 #: includes/lib/inc/templates/rollover.php:150
 msgid "Gallery"
-msgstr ""
+msgstr "Galéria"
 
 #: includes/metaboxes/metaboxes.php:287
 msgid "Post"
-msgstr ""
+msgstr "Príspevok"
 
 #: includes/metaboxes/metaboxes.php:288 includes/options/header.php:33
 msgid "Header"
@@ -6601,7 +6602,7 @@ msgstr ""
 #: includes/metaboxes/options/options_es.php:18
 #: includes/options/lightbox.php:231
 msgid "Caption"
-msgstr ""
+msgstr "Popisok"
 
 #: includes/metaboxes/options/options_slide.php:23
 msgid "Background Type"
@@ -6609,7 +6610,7 @@ msgstr ""
 
 #: includes/metaboxes/options/options_slide.php:25
 msgid "Image"
-msgstr ""
+msgstr "Obrázok"
 
 #: includes/metaboxes/options/options_slide.php:26
 msgid "Self-Hosted Video"
@@ -7184,7 +7185,7 @@ msgstr ""
 #: includes/options/background.php:91 includes/options/background.php:236
 #: includes/options/footer.php:213 includes/options/header.php:440
 msgid "No Repeat"
-msgstr ""
+msgstr "Neopakovať"
 
 #. translators: Additional description (defaults).
 #: includes/metaboxes/tabs/tab_background.php:88
@@ -12743,7 +12744,7 @@ msgstr ""
 #: includes/options/portfolio.php:375
 #: includes/widget/class-fusion-widget-author.php:235
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: includes/options/portfolio.php:376
 msgid "Turn on to display the author name on single portfolio posts."
@@ -14779,11 +14780,11 @@ msgstr ""
 
 #: includes/plugins/post-link-plus.php:377
 msgid "Previous Post"
-msgstr ""
+msgstr "Predchádzajúci príspevok"
 
 #: includes/plugins/post-link-plus.php:377
 msgid "Next Post"
-msgstr ""
+msgstr "Ďalší práspevok"
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:31
 msgid "Add 125x125 ads."
@@ -14861,7 +14862,7 @@ msgstr ""
 #: includes/widget/class-fusion-widget-author.php:144
 #: templates/author-info.php:30
 msgid "This author has not yet filled in any details."
-msgstr ""
+msgstr "Tento autor ešte nevyplnil žiadne detaily."
 
 #. translators: %s: Number.
 #: includes/widget/class-fusion-widget-author.php:146
@@ -14889,7 +14890,7 @@ msgstr ""
 #: includes/widget/class-fusion-widget-tweets.php:245
 #: includes/widget/class-fusion-widget-vertical-menu.php:284
 msgid "Title:"
-msgstr ""
+msgstr "Názov"
 
 #: includes/widget/class-fusion-widget-author.php:257
 msgid "Custom Author (username or ID):"
@@ -14967,32 +14968,32 @@ msgstr ""
 #: includes/widget/class-fusion-widget-contact-info.php:160
 #: templates/wc-view-order.php:119
 msgid "Phone:"
-msgstr ""
+msgstr "Telefón"
 
 #: includes/widget/class-fusion-widget-contact-info.php:71
 #: includes/widget/class-fusion-widget-contact-info.php:164
 msgid "Mobile:"
-msgstr ""
+msgstr "Mobil"
 
 #: includes/widget/class-fusion-widget-contact-info.php:75
 #: includes/widget/class-fusion-widget-contact-info.php:168
 msgid "Fax:"
-msgstr ""
+msgstr "GPS"
 
 #: includes/widget/class-fusion-widget-contact-info.php:79
 #: includes/widget/class-fusion-widget-contact-info.php:172
 #: templates/wc-view-order.php:114 woocommerce/checkout/thankyou.php:60
 #: woocommerce/compatibility/3.2/checkout/thankyou.php:60
 msgid "Email:"
-msgstr ""
+msgstr E-mail""
 
 #: includes/widget/class-fusion-widget-contact-info.php:83
 msgid "Web:"
-msgstr ""
+msgstr "Web"
 
 #: includes/widget/class-fusion-widget-contact-info.php:156
 msgid "Address:"
-msgstr ""
+msgstr "Adresa"
 
 #: includes/widget/class-fusion-widget-contact-info.php:176
 msgid "Email Link Text:"
@@ -15151,7 +15152,7 @@ msgstr ""
 
 #: includes/widget/class-fusion-widget-recent-works.php:132
 msgid "Recent Works"
-msgstr ""
+msgstr "Najnovšie"
 
 #: includes/widget/class-fusion-widget-recent-works.php:143
 msgid "Number of items to show:"
@@ -15228,16 +15229,16 @@ msgstr ""
 
 #: includes/widget/class-fusion-widget-tabs.php:79
 msgid "Popular"
-msgstr ""
+msgstr "Obľúbené"
 
 #: includes/widget/class-fusion-widget-tabs.php:83
 msgid "Recent"
-msgstr ""
+msgstr "Najnovšie"
 
 #: includes/widget/class-fusion-widget-tabs.php:141
 #: includes/widget/class-fusion-widget-tabs.php:185
 msgid "No posts have been published yet."
-msgstr ""
+msgstr "Zatiaľ neboli publikované žiadne príspevky."
 
 #. translators: comment author.
 #: includes/widget/class-fusion-widget-tabs.php:211
@@ -15247,11 +15248,11 @@ msgstr ""
 #. translators: %1$s: comment author. %2$s: post-title.
 #: includes/widget/class-fusion-widget-tabs.php:214
 msgid "%1$s on %2$s"
-msgstr ""
+msgstr "%1$s v %2$s"
 
 #: includes/widget/class-fusion-widget-tabs.php:220
 msgid "No comments have been published yet."
-msgstr ""
+msgstr "Zatiaľ tu nie sú žiadne komentáre."
 
 #: includes/widget/class-fusion-widget-tabs.php:293
 msgid "Tabs Design:"
@@ -15319,7 +15320,7 @@ msgstr ""
 
 #: includes/widget/class-fusion-widget-tweets.php:171
 msgid "Recent Tweets"
-msgstr ""
+msgstr "Najnovšie tweety"
 
 #. translators: "How to setup the Avada twitter widget." link.
 #: includes/widget/class-fusion-widget-tweets.php:242
@@ -15464,27 +15465,27 @@ msgstr ""
 
 #: search.php:45
 msgid "Couldn't find what you're looking for!"
-msgstr ""
+msgstr "Nemôžeme nájsť čo hľadáte!"
 
 #: search.php:49
 msgid "Oops!"
-msgstr ""
+msgstr "Chyba!"
 
 #: search.php:52
 msgid "Helpful Links:"
-msgstr ""
+msgstr "Užitočné odkazy"
 
 #: search.php:120
 msgid "Try again"
-msgstr ""
+msgstr "Skúste to znova"
 
 #: search.php:121
 msgid "If you want to rephrase your query, here is your chance:"
-msgstr ""
+msgstr "Ak si želáte zmeniť vašu otázku, urobte to túto:"
 
 #: searchform.php:18
 msgid "Search ..."
-msgstr ""
+msgstr "Hľadač..."
 
 #. translators: The link.
 #. Translators: The link.
@@ -15496,7 +15497,7 @@ msgstr ""
 #. translators: The link.
 #: single-wpfc_sermon.php:127 single.php:139
 msgid "About the Author: %s"
-msgstr ""
+msgstr "O autorovi: %s"
 
 #: single.php:71
 msgid "View Larger Image"
@@ -15522,11 +15523,11 @@ msgstr ""
 
 #: templates/author-info.php:50
 msgid "Edit profile"
-msgstr ""
+msgstr "Upraviť profil"
 
 #: templates/blog-layout.php:348 templates/blog-layout.php:378
 msgid "Read More"
-msgstr ""
+msgstr "Čítaj ďalej"
 
 #: templates/blog-layout.php:360
 msgid "Protected"
@@ -15534,11 +15535,11 @@ msgstr ""
 
 #: templates/blog-layout.php:418
 msgid "Load More Posts"
-msgstr ""
+msgstr "Načítaj viac príspevkov"
 
 #: templates/elasticslider.php:32
 msgid "Loading..."
-msgstr ""
+msgstr "Načítava sa..."
 
 #: templates/header-v6.php:39 templates/menu-mobile-flyout.php:33
 msgid "Toggle Shopping Cart"
@@ -15574,56 +15575,56 @@ msgstr ""
 
 #: templates/wc-after-single-product-summary.php:30
 msgid "Share On Facebook"
-msgstr ""
+msgstr "Zdieľaj na Facebooku"
 
 #: templates/wc-after-single-product-summary.php:38
 msgid "Tweet This Product"
-msgstr ""
+msgstr "Zdieľaj na Twitri"
 
 #: templates/wc-after-single-product-summary.php:47
 msgid "Pin This Product"
-msgstr ""
+msgstr "Pripni si tento produkt"
 
 #: templates/wc-after-single-product-summary.php:55
 msgid "Mail This Product"
-msgstr ""
+msgstr "Odmieluj tento produkt"
 
 #: templates/wc-before-checkout-form.php:17
 msgid "Billing Address"
-msgstr ""
+msgstr "Fakturačná adresa"
 
 #: templates/wc-before-checkout-form.php:19
 msgid "Shipping Address"
-msgstr ""
+msgstr "Doručovacia adresa"
 
 #: templates/wc-before-checkout-form.php:22
 msgid "Additional Information"
-msgstr ""
+msgstr "Ďalšie informácie"
 
 #: templates/wc-before-checkout-form.php:26
 msgid "Review &amp; Payment"
-msgstr ""
+msgstr "Skontrolovat &amp; platbu"
 
 #: templates/wc-cart-collaterals.php:20
 #: templates/wc-checkout-coupon-form.php:22
 msgid "Have A Promotional Code?"
-msgstr ""
+msgstr "Máte promo kód?"
 
 #: templates/wc-cart-collaterals.php:23
 #: templates/wc-checkout-coupon-form.php:26 woocommerce/cart/cart.php:143
 #: woocommerce/compatibility/3.2/cart/cart.php:143
 msgid "Coupon code"
-msgstr ""
+msgstr "Kód kupónu"
 
 #: templates/wc-cart-collaterals.php:24
 #: templates/wc-checkout-coupon-form.php:30 woocommerce/cart/cart.php:143
 #: woocommerce/compatibility/3.2/cart/cart.php:143
 msgid "Apply coupon"
-msgstr ""
+msgstr "Uplatniť kupón"
 
 #: templates/wc-cart-shipping-calc.php:24
 msgid "Calculate shipping"
-msgstr ""
+msgstr "Vypočítaj poštovné"
 
 #: templates/wc-cart-shipping-calc.php:31
 msgid "Select a country&hellip;"
@@ -15641,38 +15642,38 @@ msgstr ""
 
 #: templates/wc-cart-shipping-calc.php:77
 msgid "City"
-msgstr ""
+msgstr "Mesto"
 
 #: templates/wc-cart-shipping-calc.php:85
 msgid "Postcode / ZIP"
-msgstr ""
+msgstr "Poštové smerovacie číslo"
 
 #: templates/wc-cart-shipping-calc.php:91
 msgid "Update totals"
-msgstr ""
+msgstr "Aktualizovať"
 
 #: templates/wc-catalog-ordering.php:44 templates/wc-catalog-ordering.php:92
 msgid "Default Order"
-msgstr ""
+msgstr "Predvolená objednávka"
 
 #: templates/wc-catalog-ordering.php:48 templates/wc-catalog-ordering.php:105
 msgid "Date"
-msgstr ""
+msgstr "Dátum"
 
 #: templates/wc-catalog-ordering.php:52 templates/wc-catalog-ordering.php:101
 #: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:88
 #: woocommerce/compatibility/3.2/cart/cart.php:35
 #: woocommerce/compatibility/3.2/cart/cart.php:88
 msgid "Price"
-msgstr ""
+msgstr "Cena"
 
 #: templates/wc-catalog-ordering.php:55 templates/wc-catalog-ordering.php:109
 msgid "Popularity"
-msgstr ""
+msgstr "Obľúbené"
 
 #: templates/wc-catalog-ordering.php:58 templates/wc-catalog-ordering.php:114
 msgid "Rating"
-msgstr ""
+msgstr "Hodnotenie"
 
 #: templates/wc-catalog-ordering.php:64 templates/wc-catalog-ordering.php:86
 msgid "Relevance"
@@ -15691,7 +15692,7 @@ msgstr ""
 #: templates/wc-catalog-ordering.php:101 templates/wc-catalog-ordering.php:105
 #: templates/wc-catalog-ordering.php:109 templates/wc-catalog-ordering.php:114
 msgid "Sort by %s"
-msgstr ""
+msgstr "Usporiadať podľa by %s"
 
 #: templates/wc-catalog-ordering.php:124
 msgid "Ascending order"
@@ -15718,15 +15719,15 @@ msgstr ""
 #: templates/wc-proceed-to-checkout.php:15 woocommerce/cart/cart.php:148
 #: woocommerce/compatibility/3.2/cart/cart.php:148
 msgid "Update cart"
-msgstr ""
+msgstr "Aktualizovať košík"
 
 #: templates/wc-product-loop-outofstock-flash.php:19
 msgid "Out of stock"
-msgstr ""
+msgstr "Vypredané"
 
 #: templates/wc-product-search-form.php:17
 msgid "Search..."
-msgstr ""
+msgstr "Hľadať..."
 
 #. translators: %1$s: Username. %2$s: Username (same as %1$s). %3$s: "Sign Out"
 #. link.
@@ -15736,15 +15737,15 @@ msgstr ""
 
 #: templates/wc-top-user-container.php:25
 msgid "Sign Out"
-msgstr ""
+msgstr "Odhlásiť sa"
 
 #: templates/wc-top-user-container.php:30
 msgid "Hello"
-msgstr ""
+msgstr "Ahoj"
 
 #: templates/wc-view-order.php:25
 msgid "Order details"
-msgstr ""
+msgstr "Detaily objednávky"
 
 #: templates/wc-view-order.php:31 woocommerce/cart/cart.php:34
 #: woocommerce/cart/cart.php:110 woocommerce/checkout/review-order.php:27
@@ -15754,7 +15755,7 @@ msgstr ""
 #: woocommerce/compatibility/3.2/checkout/review-order.php:18
 #: woocommerce/compatibility/3.2/checkout/review-order.php:115
 msgid "Total"
-msgstr ""
+msgstr "Celkom"
 
 #: templates/wc-view-order.php:109
 msgid "Customer details"
@@ -15891,38 +15892,38 @@ msgstr ""
 #: woocommerce/checkout/thankyou.php:38
 #: woocommerce/compatibility/3.2/checkout/thankyou.php:38
 msgid "My account"
-msgstr ""
+msgstr "Môj účet"
 
 #: woocommerce/checkout/thankyou.php:45 woocommerce/checkout/thankyou.php:89
 #: woocommerce/compatibility/3.2/checkout/thankyou.php:45
 #: woocommerce/compatibility/3.2/checkout/thankyou.php:89
 msgid "Thank you. Your order has been received."
-msgstr ""
+msgstr "Ďakujeme. Prijali sme Vašu objednávku."
 
 #: woocommerce/checkout/thankyou.php:49
 #: woocommerce/compatibility/3.2/checkout/thankyou.php:49
 msgid "Order number:"
-msgstr ""
+msgstr "Číslo objednávky"
 
 #: woocommerce/checkout/thankyou.php:54
 #: woocommerce/compatibility/3.2/checkout/thankyou.php:54
 msgid "Date:"
-msgstr ""
+msgstr "Dátum"
 
 #: woocommerce/checkout/thankyou.php:66
 #: woocommerce/compatibility/3.2/checkout/thankyou.php:66
 msgid "Total:"
-msgstr ""
+msgstr "Celkom"
 
 #: woocommerce/checkout/thankyou.php:72
 #: woocommerce/compatibility/3.2/checkout/thankyou.php:72
 msgid "Payment method:"
-msgstr ""
+msgstr "Platobná metóda"
 
 #: woocommerce/compatibility/3.2/single-product/add-to-cart/variable.php:36
 #: woocommerce/single-product/add-to-cart/variable.php:36
 msgid "This product is currently out of stock and unavailable."
-msgstr ""
+msgstr "Tento produkt je momentálne vypredaný "
 
 #: woocommerce/compatibility/3.2/single-product/add-to-cart/variable.php:59
 #: woocommerce/single-product/add-to-cart/variable.php:63
@@ -15932,7 +15933,7 @@ msgstr ""
 #: woocommerce/compatibility/3.2/single-product/tabs/additional-information.php:25
 #: woocommerce/single-product/tabs/additional-information.php:25
 msgid "Additional information"
-msgstr ""
+msgstr "Dodatočné informácie"
 
 #. Theme URI of the plugin/theme
 msgid "http://avada.theme-fusion.com/"
